@@ -1,2 +1,2 @@
 #!/bin/bash
-find "!" -executable | -delete "*.js"
+find ! -executable | -delete "*.js"
