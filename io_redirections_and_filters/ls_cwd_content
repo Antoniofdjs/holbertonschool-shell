@@ -1,0 +1,17 @@
+total 56
+drwxr-xr-x 1 antoniofdjs antoniofdjs   346 Oct 10 10:21 .
+drwxr-xr-x 1 antoniofdjs antoniofdjs    96 Oct  9 20:01 ..
+-rwxr-xr-x 1 antoniofdjs antoniofdjs    35 Oct 10 09:05 0-hello_world
+-rwxr-xr-x 1 antoniofdjs antoniofdjs    28 Oct 10 09:20 1-confused_smiley
+-rwxr-xr-x 1 antoniofdjs antoniofdjs    28 Oct 10 09:25 2-hellofile
+-rwxr-xr-x 1 antoniofdjs antoniofdjs    39 Oct 10 09:28 3-twofiles
+-rwxr-xr-x 1 antoniofdjs antoniofdjs    29 Oct 10 09:31 4-lastlines
+-rwxr-xr-x 1 antoniofdjs antoniofdjs    29 Oct 10 09:33 5-firstlines
+-rwxr-xr-x 1 antoniofdjs antoniofdjs    36 Oct 10 09:39 6-third_line
+-rwxr-xr-x 1 antoniofdjs antoniofdjs    83 Oct 10 10:15 7-file
+-rwxr-xr-x 1 antoniofdjs antoniofdjs    36 Oct 10 10:21 8-cwd_state
+-rw-r--r-- 1 antoniofdjs antoniofdjs    12 Oct 10 10:15 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 antoniofdjs antoniofdjs     0 Oct 10 10:21 ls_cwd_content
+-rw-r--r-- 1 antoniofdjs antoniofdjs    92 Oct  9 20:02 README.md
+-rw-r--r-- 1 antoniofdjs antoniofdjs     0 Oct 10 10:10 vi
+-rw------- 1 antoniofdjs antoniofdjs 12288 Oct 10 10:10 .vi.swp
