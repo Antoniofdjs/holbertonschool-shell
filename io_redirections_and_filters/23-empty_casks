@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR | find -empty | cut -d/ -f2
+find . -type d -empty -exec sh -c 'basename "$0"' {} \; -o -type f -empty -exec sh -c 'basename "$0"' {} \;
