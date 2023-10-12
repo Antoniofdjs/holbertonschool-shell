@@ -1,0 +1,2 @@
+#!/bin/basih
+cut -c1 | tr -d "\n"
