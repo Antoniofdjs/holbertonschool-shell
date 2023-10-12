@@ -1,2 +1,2 @@
-#!/bin/basih
+#!/bin/bash
 cut -c1 | tr -d "\n"
